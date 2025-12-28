@@ -1,6 +1,6 @@
 export default function MenuCard() {
     return (
-        <div className="bg-orange-400 text-black h-70 mx-70 justify-items-center rounded-lg shadow-lg p-6 grid grid-cols-3 gap-4">
+        <div className="bg-orange-400 text-black h-70 mx-70 my-20 justify-items-center rounded-lg shadow-lg p-6 grid grid-cols-3 gap-4">
             <div>
                 <div className="text-3xl font-bold">Appetizers</div>
                 <div>Gyoza (6 pcs): $5.99</div>

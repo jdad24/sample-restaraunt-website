@@ -11,7 +11,7 @@ export default function Navbar() {
                 <Link href="/menu" title="Menu">
                     <Button title="Menu" />
                 </Link>
-                <Link href="https://www.opentable.com/" title="Reserve">
+                <Link  href="https://www.opentable.com/" title="Reserve" target="_blank" rel="noopener noreferrer">
                     <Button title="Reserve" />
                 </Link>
             </div>
